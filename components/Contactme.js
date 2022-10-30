@@ -17,22 +17,22 @@ const Contactme = () => {
               <a href="https://www.linkedin.com/in/shahbaz-sheikh-b1477b135/">
                 <p className="mt-10 px-5 pr-5 italic text-xl">linkedin.com</p>
               </a>
-              <img
+              {/* <img
                 className="w-60 mx-auto mt-10 bg-white"
                 src="linkedin.jpg"
                 alt="/"
-              />
+              /> */}
             </div>
             <div className="border py-8 rounded-xl  hover:scale-105 duration-300">
               <p className="text-black text-2xl font-bold mt-2">Email </p>
               <p className="mt-10 px-2 italic text-xl">
                 shahbazsheikh9175@gmail.com
               </p>
-              <img
+              {/* <img
                 className="w-60 mx-auto mt-10 bg-white"
                 src="email.jpg"
                 alt="/"
-              />
+              /> */}
             </div>
 
             <div className="border py-8 rounded-xl  hover:scale-105 duration-300">
@@ -40,22 +40,22 @@ const Contactme = () => {
               <a href="https://github.com/"><p className="mt-10 px-2 italic text-xl">
                 Shahbazsheikh7888
               </p></a>
-              <img
+              {/* <img
                 className="w-60 mx-auto mt-10 bg-white"
                 src="github.webp"
                 alt="/"
-              />
+              /> */}
             </div>
             <div className="border py-8 rounded-xl  hover:scale-105 duration-300">
               <p className="text-black  text-2xl font-bold mt-2">Website</p>
               <a href="https://skshahbaz.netlify.app/"><p className="mt-10 px-2 italic text-xl">
               https://skshahbaz.netlify.app/
               </p></a>
-              <img
+              {/* <img
                 className="w-60 mx-auto mt-10 bg-white"
                 src="website.jpg"
                 alt="/"
-              />
+              /> */}
             </div>
           </div>
         </div>
