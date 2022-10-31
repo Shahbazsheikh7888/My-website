@@ -38,32 +38,32 @@ const Projects = () => {
        <div name="projects" className="w-full mt-5 pt-5">
         <div className="max-w-[1240px] mx-auto pt-3">
           <div className="text-center">
-            <h2 className="text-[#8109f8] italic text-6xl font-bold">
+            <h2 className="text-[#f19217] italic text-6xl font-bold">
              Projects
             </h2>
           </div>
 
           <div className="grid md:grid-cols-4 gap-4 pl-2 mt-8 pt-8 pb-20 text-center">
-            <div className="border py-8 rounded-xl  hover:scale-105 duration-300">
+            <div className="border py-8 rounded-xl hover:bg-orange-100  hover:scale-105 duration-300">
               <p className="text-black text-2xl font-bold mt-2">1. My portfolio </p>
               <p className="mt-20 px-2 italic text-xl">Skills used - Next.js,
                 Tailwind.CSS, Javascript, HTML.</p>
               <img className='w-60 mx-auto mt-10 bg-white' src="portfolio.png" alt="/" />
               
             </div>
-            <div className="border py-8 rounded-xl hover:scale-105 duration-300">
+            <div className="border py-8 rounded-xl hover:bg-orange-100 hover:scale-105 duration-300">
               <p className="text-black  text-2xl font-bold mt-2">2. Skillwallah (Online coding platform)</p>
               <p className="mt-11 px-2 italic text-xl">Skills used -
                 React.js, Tailwind.CSS, Javascript, HTML.</p>
               <img className='w-60 mx-auto mt-10 bg-white' src="skillwallah.png" alt="/" />
             </div>
-            <div className="border py-8 rounded-xl  hover:scale-105 duration-300">
+            <div className="border py-8 rounded-xl hover:bg-orange-100 hover:scale-105 duration-300">
               <p className="text-black  text-2xl font-bold mt-2">3. Event Website</p>
               <p className="mt-20 px-2 italic text-xl">Skills used - Next.js,
                 Tailwind.CSS, Javascript, HTML.</p>
               <img className='w-60 mx-auto mt-10 bg-white' src="event.png" alt="/" />
             </div>
-            <div className="border py-8 rounded-xl  hover:scale-105 duration-300">
+            <div className="border py-8 rounded-xl hover:bg-orange-100 hover:scale-105 duration-300">
               <p className="text-black  text-2xl font-bold mt-2"> 4. Coaching Website</p>
               <p className="mt-20 px-2 italic text-xl">Skills used - 
                 Bootstrap, Javascript, HTML.</p>
@@ -74,7 +74,7 @@ const Projects = () => {
           </div>
         </div>
       </div>
-      <hr className="h-1 mx-20 animate-pulse bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500  " />
+      <hr className="h-1 mx-20 animate-pulse bg-gray-100 "/>
     </>
   );
 };
