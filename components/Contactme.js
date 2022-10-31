@@ -12,7 +12,7 @@ const Contactme = () => {
           </div>
 
           <div className="grid md:grid-cols-4 gap-4 pl-2 mt-8 pt-8 pb-20 text-center">
-            <div className="border py-8 rounded-xl hover:bg-orange-100 hover:scale-105 duration-300">
+            <div className="border bg-orange-100 py-8 rounded-xl hover:bg-orange-300 hover:scale-105 duration-300">
               <p className="text-black  text-2xl font-bold mt-2">LinkedIn</p>
               <a href="https://www.linkedin.com/in/shahbaz-sheikh-b1477b135/">
                 <p className="mt-10 px-5 pr-5 hover:text-orange-500 italic text-xl">linkedin.com</p>
@@ -23,7 +23,7 @@ const Contactme = () => {
                 alt="/"
               /> */}
             </div>
-            <div className="border py-8 rounded-xl hover:bg-orange-100 hover:scale-105 duration-300">
+            <div className="border bg-orange-100 py-8 rounded-xl hover:bg-orange-300 hover:scale-105 duration-300">
               <p className="text-black text-2xl font-bold mt-2">Email </p>
               <p className="mt-10 px-2 italic text-xl">
                 shahbazsheikh9175@gmail.com
@@ -35,7 +35,7 @@ const Contactme = () => {
               /> */}
             </div>
 
-            <div className="border py-8 rounded-xl hover:bg-orange-100  hover:scale-105 duration-300">
+            <div className="border bg-orange-100 py-8 rounded-xl hover:bg-orange-300  hover:scale-105 duration-300">
               <p className="text-black  text-2xl font-bold mt-2">Github</p>
               <a href="https://github.com/"><p className="mt-10 px-2 italic text-xl hover:text-orange-500">
                 Shahbazsheikh7888
@@ -46,7 +46,7 @@ const Contactme = () => {
                 alt="/"
               /> */}
             </div>
-            <div className="border py-8 rounded-xl hover:bg-orange-100 hover:scale-105 duration-300">
+            <div className="border bg-orange-100 py-8 rounded-xl hover:bg-orange-300 hover:scale-105 duration-300">
               <p className="text-black  text-2xl font-bold mt-2">Mobile Number</p>
               <a href="https://skshahbaz.netlify.app/"><p className="mt-10 px-2 hover:text-orange-500 italic text-xl">
              +91-7888183898
