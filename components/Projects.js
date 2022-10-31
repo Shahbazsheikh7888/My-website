@@ -44,26 +44,26 @@ const Projects = () => {
           </div>
 
           <div className="grid md:grid-cols-4 gap-4 pl-2 mt-8 pt-8 pb-20 text-center">
-            <div className="border py-8 rounded-xl hover:bg-orange-100  hover:scale-105 duration-300">
+            <div className="border py-8 rounded-xl hover:bg-orange-300 bg-orange-100  hover:scale-105 duration-300">
               <p className="text-black text-2xl font-bold mt-2">1. My portfolio </p>
               <p className="mt-20 px-2 italic text-xl">Skills used - Next.js,
                 Tailwind.CSS, Javascript, HTML.</p>
               <img className='w-60 mx-auto mt-10 bg-white' src="portfolio.png" alt="/" />
               
             </div>
-            <div className="border py-8 rounded-xl hover:bg-orange-100 hover:scale-105 duration-300">
+            <div className="border py-8 rounded-xl hover:bg-orange-300 bg-orange-100 hover:scale-105 duration-300">
               <p className="text-black  text-2xl font-bold mt-2">2. Skillwallah (Online coding platform)</p>
               <p className="mt-11 px-2 italic text-xl">Skills used -
                 React.js, Tailwind.CSS, Javascript, HTML.</p>
               <img className='w-60 mx-auto mt-10 bg-white' src="skillwallah.png" alt="/" />
             </div>
-            <div className="border py-8 rounded-xl hover:bg-orange-100 hover:scale-105 duration-300">
+            <div className="border py-8 rounded-xl hover:bg-orange-300 bg-orange-100 hover:scale-105 duration-300">
               <p className="text-black  text-2xl font-bold mt-2">3. Event Website</p>
               <p className="mt-20 px-2 italic text-xl">Skills used - Next.js,
                 Tailwind.CSS, Javascript, HTML.</p>
               <img className='w-60 mx-auto mt-10 bg-white' src="event.png" alt="/" />
             </div>
-            <div className="border py-8 rounded-xl hover:bg-orange-100 hover:scale-105 duration-300">
+            <div className="border py-8 rounded-xl hover:bg-orange-300 bg-orange-100 hover:scale-105 duration-300">
               <p className="text-black  text-2xl font-bold mt-2"> 4. Coaching Website</p>
               <p className="mt-20 px-2 italic text-xl">Skills used - 
                 Bootstrap, Javascript, HTML.</p>
