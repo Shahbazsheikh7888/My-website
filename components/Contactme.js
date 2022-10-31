@@ -47,9 +47,9 @@ const Contactme = () => {
               /> */}
             </div>
             <div className="border py-8 rounded-xl hover:bg-orange-100 hover:scale-105 duration-300">
-              <p className="text-black  text-2xl font-bold mt-2">Website</p>
+              <p className="text-black  text-2xl font-bold mt-2">Mobile Number</p>
               <a href="https://skshahbaz.netlify.app/"><p className="mt-10 px-2 hover:text-orange-500 italic text-xl">
-              https://skshahbaz.netlify.app/
+             +91-7888183898
               </p></a>
               {/* <img
                 className="w-60 mx-auto mt-10 bg-white"
